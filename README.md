@@ -5,6 +5,12 @@
 This programm needs to mutate full i-exam.com site to prevent
 doing all that boring and useless tasks.
 
+## What is ready
+1. FullName mutation
+2. Mode mutation
+3. Right answers amount mutation (random, but on 5)
+4. Change crosses to arrows according to right answers amount.
+
 ## How to use?
 
 ### Android
