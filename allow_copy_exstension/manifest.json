@@ -1,0 +1,10 @@
+{
+	"name": "i-exam-copy-allower",
+	"version": "1.0.0",
+	"description": "Allow copy on the i-exam.ru site.",
+	"manifest_version": 3,
+	"content_scripts": [{
+		"matches": ["https://test.i-exam.ru/**"],
+		"js": ["extension.js"]
+	}]
+}
