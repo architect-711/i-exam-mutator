@@ -24,3 +24,16 @@ I don't know, try to find the way how to open console
 3. Go to the training mod
 4. End test
 5. Run script
+
+# Allow copy extension
+
+## Short description
+
+That chrome extension allows copy text content on the site.
+
+## How to use
+
+1. Got to `chrome://extensions`
+2. Turn on `Developer mode` (Top right conrner)
+3. Click `Load unpacked` button
+4. Chooose folder with extension
